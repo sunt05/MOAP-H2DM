@@ -1,0 +1,25 @@
+2023-11-07
+----------
+
+
+:Speaker: Prof Richard Chandler (Stats, UCL)
+
+:Time: 13:00-14:00, 7th November 2023 (Tuesday)
+
+:Location: `Zoom (online) <https://ucl.zoom.us/j/92613136254>`_
+
+    .. - Room 1, UCL
+    .. - `Zoom (online) <https://ucl.zoom.us/j/92613136254>`_
+
+More about the talk
+====================
+
+:Title: Decision-relevant characterisation of uncertainty in UK climate
+
+:Abstract: I will discuss recent work, carried out with Chris Brierley and Clair Barnes with funding from the UK Climate Resilience Programme.From the "hazards to decision-making perspective", a key challenge is toprovide defensible assessments of uncertainty: in the context of future climate change adaptation, this uncertainty is very obvious when faced with very different projections from multiple climate models, that are not independent and that all have individual strengths and weaknesses. To be "decision-relevant", uncertainty characterisation must be based on transparent and defensible judgements that consider the available information holistically. I will present a framework for doing this, with specimen results available from https://github-pages.ucl.ac.uk/eurocordex-uk-plots/.
+
+
+More about the speaker
+========================
+:UCL Profile: `Prof Richard Chandler <https://profiles.ucl.ac.uk/7266-richard-chandler>`_
+

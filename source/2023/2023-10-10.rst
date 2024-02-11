@@ -1,0 +1,25 @@
+2023-10-10
+----------
+
+
+:Speaker: Prof Andrea Macrina (Maths, UCL)
+
+:Time: 13:00-14:00, 10th October 2023 (Tuesday)
+
+:Location: `Zoom (online) <https://ucl.zoom.us/j/92613136254>`_
+
+    .. - Room 1, UCL
+    .. - `Zoom (online) <https://ucl.zoom.us/j/92613136254>`_
+
+More about the talk
+====================
+
+:Title: Financial Impact of Climate Risk under Carbon Emission Scenarios
+
+:Abstract: Physical and transition risks are major components of climate risk. While in this presentation the focus will be on transition risk and its financial impact, discussion about physical risk and the link to transition risk shall be encouraged. One of the questions we can consider is how uncertainty and risk should be modelled in the context of carbon emission scenarios.
+
+
+More about the speaker
+========================
+:UCL Profile: `Prof Andrea Macrina <https://profiles.ucl.ac.uk/36028-andrea-macrina>`_
+
