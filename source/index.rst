@@ -9,7 +9,7 @@ UCL MOAP-H2DM Colloquium Series
    :maxdepth: 1
    :caption: 2024
 
-   2024-01-23: Prof Ilan Kelman, Disasters and Climate Change <2024/2024-01-23>
+   2024-01-23: Prof Ilan Kelman (IRDR, UCL) <2024/2024-01-23>
 
 
 
