@@ -1,0 +1,23 @@
+2024-02-20
+----------
+
+
+:Speaker: Dr Katty Huang (UK Met Office)
+
+:Time: 13:00-14:00, 20th February 2024
+
+:Location: `Zoom (online) <https://ucl.zoom.us/j/92613136254>`_
+
+    .. - Room 1, UCL
+    .. - `Zoom (online) <https://ucl.zoom.us/j/92613136254>`_
+
+More about the talk
+====================
+
+:Title: Economic valuation of temperature-related mortality attributed to urban heat islands in European cities
+
+:Abstract: Dr Katty Huang works in the Climate Impacts Modelling team at the Met Office, which is part of the Earth System and Mitigation Science division. The primary objective of their team is to assess the impact implications of various climate projections, with a strong emphasis on advancing the consideration of vulnerability and exposure in these assessments. In her presentation, Dr Huang will be sharing insights from her previous work at University College London (UCL) on the economic assessment of human mortality risk associated with urban heat islands in European cities, highlighting both adverse and protective effects. She will also provide an overview of some of the activities and interests of her team at the Met Office and express her eagerness to explore potential future collaborations.
+
+.. More about the speaker
+.. ========================
+.. :UCL Profile: `Prof Ilan Kelman <https://profiles.ucl.ac.uk/40787-ilan-kelman>`_
