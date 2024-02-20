@@ -1,6 +1,7 @@
 2024-01-23
 ----------
 
+.. note:: This is an **online** event via Zoom.
 
 :Speaker: Prof Ilan Kelman (IRDR, UCL)
 

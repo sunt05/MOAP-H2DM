@@ -1,6 +1,7 @@
 2023-12-12
 ----------
 
+.. note:: This is an **in-person** event at UCL campus.
 
 :Speaker: Prof Adam Harris (Experimental Psychology, UCL)
 

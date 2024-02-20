@@ -1,6 +1,7 @@
 2024-02-20
 ----------
 
+.. note:: This is an **online** event via Zoom.
 
 :Speaker: Dr Katty Huang (UK Met Office)
 

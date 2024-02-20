@@ -1,6 +1,7 @@
 2023-10-10
 ----------
 
+.. note:: This is an **online** event via Zoom.
 
 :Speaker: Prof Andrea Macrina (Maths, UCL)
 

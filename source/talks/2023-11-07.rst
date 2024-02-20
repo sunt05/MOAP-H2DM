@@ -1,6 +1,7 @@
 2023-11-07
 ----------
 
+.. note:: This is an **online** event via Zoom.
 
 :Speaker: Prof Richard Chandler (Stats, UCL)
 

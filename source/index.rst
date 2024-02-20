@@ -3,13 +3,21 @@
 UCL MOAP-H2DM Colloquium Series
 =====================================================
 
+.. tip::
+
+      - If you would like to give a talk, please sign up `this online form <https://forms.office.com/e/cJy0zfNXcS>`_.
+      - If you'd like to receive updates, please contact `Dr Ting Sun <mailto:ting.sun@ucl.ac.uk>`_ to be added to the mailing list.
+
+
 
 
 .. toctree::
    :maxdepth: 1
    :caption: Upcoming
 
-   2024-02-20: Dr Katty Huang (UK Met Office) <talks/2024-02-20>
+   2024-03-19: Anton Keskinen (Operaatio Arktis) <talks/2024-03-19>
+   2024-04-09: Prof Carina Fearnley (STS, UCL) <talks/2024-04-09>
+   2024-05-14: Dr Shipra Jain (IRDR, UCL) <talks/2024-05-14>
 
 
 
@@ -17,6 +25,7 @@ UCL MOAP-H2DM Colloquium Series
    :maxdepth: 1
    :caption: Past
 
+   2024-02-20: Dr Katty Huang (UK Met Office) <talks/2024-02-20>
    2024-01-23: Prof Ilan Kelman (IRDR, UCL) <talks/2024-01-23>
    2023-12-12: Prof Adam Harris (Experimental Psychology, UCL) <talks/2023-12-12>
    2023-11-07: Prof Richard Chandler (Stats, UCL) <talks/2023-11-07>
