@@ -1,4 +1,4 @@
-2024-05-14
+2024-06-04
 ----------
 
 .. note:: This is an **in-person** event on UCL campus.
@@ -6,7 +6,7 @@
 
 :Speaker: Dr Shipra Jain (IRDR, UCL)
 
-:Time: 13:00-14:00, 14th May 2024
+:Time: 13:00-14:00, 4th June 2024
 
 :Location: `Institute of Advanced Studies Room 11 in South Wing, UCL <http://www.ucl.ac.uk/maps/south-wing>`_
 
