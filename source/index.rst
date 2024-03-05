@@ -17,7 +17,7 @@ UCL MOAP-H2DM Colloquium Series
 
    2024-03-19: Anton Keskinen (Operaatio Arktis) <talks/2024-03-19>
    2024-04-09: Prof Carina Fearnley (STS, UCL) <talks/2024-04-09>
-   2024-06-04: Dr Shipra Jain (IRDR, UCL) <talks/2024-05-14>
+   2024-06-04: Dr Shipra Jain (IRDR, UCL) <talks/2024-06-04>
 
 
 
