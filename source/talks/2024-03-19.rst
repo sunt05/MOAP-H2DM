@@ -8,7 +8,7 @@
 
 :Time: 13:00-15:00, 19th March 2024
 
-:Location: `Room 04 in Tottenham Court Road, UCL <http://www.ucl.ac.uk/maps/188-tottenham-court-road-sb4>`_
+:Location: `Room 04 in 188 Tottenham Court Road, UCL <http://www.ucl.ac.uk/maps/188-tottenham-court-road-sb4>`_
 
     .. - Room 1, UCL
     .. - `Zoom (online) <https://ucl.zoom.us/j/92613136254>`_
