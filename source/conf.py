@@ -56,6 +56,10 @@ exclude_patterns = []
 html_theme_options = {
     "external_links": [
         (
+            "GitHub Repo",
+            "https://github.com/sunt05/MOAP-H2DM",
+        ),
+        (
             "MS Teams channel",
             "https://teams.microsoft.com/l/channel/19%3Ab8NiG86SHHDQHrjgH_pwXU7V6s0v5vzcadF5AUJd6_g1%40thread.tacv2/General?groupId=bf631c1a-91a2-4336-b122-f4a478a2e182&tenantId=1faf88fe-a998-4c5b-93c9-210a11d9a5c2",
         ),
