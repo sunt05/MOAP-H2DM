@@ -16,9 +16,20 @@
 More about the talk
 ====================
 
-:Title: (TBC)
+:Title: Indian Ocean Dipole Watch System for Southeast Asia
 
-:Abstract: (TBC)
+:Abstract:
+    In 2019 and 2023, two strong positive Indian Ocean Dipole (IOD) events occurred, significantly impacting global climate patterns, particularly rainfall across Southeast Asia.
+    Monitoring these IODs is therefore crucial for issuing early warnings of potential climate extremes over this region.
+    This work assesses the current criteria utilized by various national meteorological and hydrological centers for monitoring and predicting IOD events.
+    Our examination focuses on the impact of subjective choices, such as sea surface temperature (SST) datasets, historical baseline periods, and time averaging methods, on identifying IOD events.
+    We find the widely used Dipole Mode Index (DMI) is sensitive to the choice of SST dataset and time averaging (monthly vs 3-monthly mean DMI) and can lead to marked differences between centers on the state of the IOD.
+    The southern Maritime Continent can experience the impact of the IOD on rainfall even when the IOD has not met the current operational threshold for an event.
+    We also assess the skill of multimodel ensembles used for seasonal prediction in capturing the strength, phase, and timing of the IOD events.
+    While most models are skillful in capturing the active phase of the IOD, all models have an overactive IOD strength.
+    Calibration of DMI-based monitoring products is therefore recommended for the most skillful and reliable IOD predictions.
+    All models also have low skill for forecasts initialized during January-May, although the skill is sensitive to verifying observations, and using a multi-observational mean dataset can yield better skill scores.
+    Finally, we outline the choices made for the IOD watch system for Southeast Asia and introduce an objective decision support system to assist climate forecasters in monitoring and predicting IOD events and issuing timely alerts.
 
 More about the speaker
 ========================
