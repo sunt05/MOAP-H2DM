@@ -16,7 +16,7 @@ UCL MOAP-H2DM Colloquium Series
    :caption: Upcoming
 
    2024-11-12: Dr Erica Thompson (STEaPP, UCL) <talks/2024-11-12>
-
+   2024-12-03: Roundtable discussion on climate variability <talks/2024-12-03>
 
 
 
