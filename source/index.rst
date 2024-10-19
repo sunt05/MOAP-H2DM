@@ -15,7 +15,8 @@ UCL MOAP-H2DM Colloquium Series
    :maxdepth: 1
    :caption: Upcoming
 
-   2024-06-04: Dr Shipra Jain (IRDR, UCL) <talks/2024-06-04>
+   2024-11-12: Dr Erica Thompson (STEaPP, UCL) <talks/2024-11-12>
+
 
 
 
@@ -23,6 +24,7 @@ UCL MOAP-H2DM Colloquium Series
    :maxdepth: 1
    :caption: Past
 
+   2024-06-04: Dr Shipra Jain (IRDR, UCL) <talks/2024-06-04>
    2024-04-09: Prof Carina Fearnley (STS, UCL) <talks/2024-04-09>
    2024-03-19: Anton Keskinen (Operaatio Arktis) <talks/2024-03-19>
    2024-02-20: Dr Katty Huang (UK Met Office) <talks/2024-02-20>
