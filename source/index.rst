@@ -15,6 +15,7 @@ UCL MOAP-H2DM Colloquium Series
    :maxdepth: 1
    :caption: Upcoming
 
+   2025-03-04: Dr Clare Heaviside (IEDE, UCL) <talks/2025-03-04>
    2025-02-04: Roundtable discussion on an MO funding opportunity <talks/2025-02-04>
 
 
