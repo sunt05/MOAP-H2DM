@@ -15,14 +15,15 @@ UCL MOAP-H2DM Colloquium Series
    :maxdepth: 1
    :caption: Upcoming
 
-   2025-02-04: Roundtable discussion on an MO funding opportunity <talks/2025-02-04>
    2025-03-04: Dr Clare Heaviside (IEDE, UCL) <talks/2025-03-04>
+   2025-04-01: Roundtable discussion with MO H2DM team <talks/2025-04-01>
 
 
 .. toctree::
    :maxdepth: 1
    :caption: Past
 
+   2025-02-04: Roundtable discussion on an MO funding opportunity <talks/2025-02-04>
    2024-12-03: Roundtable discussion on climate variability <talks/2024-12-03>
    2024-11-12: Dr Erica Thompson (STEaPP, UCL) <talks/2024-11-12>
    2024-06-04: Dr Shipra Jain (IRDR, UCL) <talks/2024-06-04>
